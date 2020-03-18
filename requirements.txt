@@ -1,0 +1,4 @@
+pandas
+requests
+beautifulsoup4==4.8.2
+soupsieve==2.0
